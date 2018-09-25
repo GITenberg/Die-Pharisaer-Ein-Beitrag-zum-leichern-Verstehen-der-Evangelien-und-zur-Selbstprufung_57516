@@ -1,11 +1,16 @@
 _repo: Die-Pharisaer-Ein-Beitrag-zum-leichern-Verstehen-der-Evangelien-und-zur-Selbstprufung_57516
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57516-h/images/cover.jpg
 creator:
   author:
     agent_name: Wirth, Michael
     gutenberg_agent_id: '49437'
     url: http://www.gutenberg.org/2009/agents/49437
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57516#Die-Pharisaer-Ein-Beitrag-zum-leichern-Verstehen-der-Evangelien-und-zur-Selbstprufung
 gutenberg_issued: '2018-07-15'
 gutenberg_type: Text
 identifiers:
